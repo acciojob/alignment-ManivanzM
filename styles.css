@@ -1,6 +1,10 @@
 /*  your css code here. If applicable */
+td{
+	border : 1px solid rgb(0,0,0);
+}
 table{
-	border : "1px solid rgb(0,0,0)";
-	spacing : "1px";
-	cell padding : "1px";
+	border : 1px solid black;
+	spacing : 1px;
+	cell padding : 1px;
+	border-collapse : collapse;
 }
