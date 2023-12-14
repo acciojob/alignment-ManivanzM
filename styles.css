@@ -1,2 +1,6 @@
 /*  your css code here. If applicable */
-#table{}
+#table{
+	border : "1px solid black";
+	spacing : "1px";
+	cell padding : "1px";
+}
